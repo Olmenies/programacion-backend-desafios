@@ -1,0 +1,65 @@
+[
+	{
+		"title": "Betta",
+		"description": "El pez betta o luchador de Siam (Betta splendens) es una especie de pez de agua dulce de la familia de los Osphronemidae en el orden de los Perciformes.",
+		"price": 500,
+		"thumbnail": "/assets/betta.jpg",
+		"code": "d6f09030-68eb-433f-be7e-9dadfd23a78c",
+		"stock": 50,
+		"id": 0
+	},
+	{
+		"title": "Betta",
+		"description": "El pez betta o luchador de Siam (Betta splendens) es una especie de pez de agua dulce de la familia de los Osphronemidae en el orden de los Perciformes.",
+		"price": 500,
+		"thumbnail": "/assets/betta.jpg",
+		"code": "a32c7b75-4726-415f-8dbe-da05d78e0d05",
+		"stock": 50,
+		"id": 1
+	},
+	{
+		"title": "Betta",
+		"description": "El pez betta o luchador de Siam (Betta splendens) es una especie de pez de agua dulce de la familia de los Osphronemidae en el orden de los Perciformes.",
+		"price": 500,
+		"thumbnail": "/assets/betta.jpg",
+		"code": "bc0027ed-1666-4ddb-badf-b45176bd13ae",
+		"stock": 50,
+		"id": 2
+	},
+	{
+		"title": "Betta",
+		"description": "El pez betta o luchador de Siam (Betta splendens) es una especie de pez de agua dulce de la familia de los Osphronemidae en el orden de los Perciformes.",
+		"price": 500,
+		"thumbnail": "/assets/betta.jpg",
+		"code": "a0315e09-3f52-444e-a054-3bf2725bc951",
+		"stock": 50,
+		"id": 3
+	},
+	{
+		"title": "Betta",
+		"description": "El pez betta o luchador de Siam (Betta splendens) es una especie de pez de agua dulce de la familia de los Osphronemidae en el orden de los Perciformes.",
+		"price": 500,
+		"thumbnail": "/assets/betta.jpg",
+		"code": "63b1fa33-c669-4ab3-8127-0c06f3174a96",
+		"stock": 50,
+		"id": 4
+	},
+	{
+		"title": "Betta",
+		"description": "El pez betta o luchador de Siam (Betta splendens) es una especie de pez de agua dulce de la familia de los Osphronemidae en el orden de los Perciformes.",
+		"price": 500,
+		"thumbnail": "/assets/betta.jpg",
+		"code": "80b4cd9e-50fa-4aa9-9757-787955bf61c6",
+		"stock": 50,
+		"id": 5
+	},
+	{
+		"title": "Betta",
+		"description": "El pez betta o luchador de Siam (Betta splendens) es una especie de pez de agua dulce de la familia de los Osphronemidae en el orden de los Perciformes.",
+		"price": 500,
+		"thumbnail": "/assets/betta.jpg",
+		"code": "4a0856b5-f1cc-4345-9933-352486e9e0ff",
+		"stock": 50,
+		"id": 6
+	}
+]
